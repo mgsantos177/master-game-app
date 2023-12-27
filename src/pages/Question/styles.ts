@@ -65,10 +65,7 @@ export const ControllButtonsContent = styled.footer`
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 5rem;
+  margin-top: 1rem;
 `
 
 export const CustomButton = styled.button`
